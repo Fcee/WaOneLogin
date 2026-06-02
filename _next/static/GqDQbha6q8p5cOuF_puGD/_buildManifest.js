@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/loginWaOne//_next/:path+",
-        "destination": "/loginWaOne/_next/:path+"
+        "source": "/WaOneLogin//_next/:path+",
+        "destination": "/WaOneLogin/_next/:path+"
       }
     ],
     "fallback": []
